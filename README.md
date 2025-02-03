@@ -12,5 +12,5 @@
 ```
 python main.py
 ```
-- A calculadora irá abrir na tela, possibilitando a utilização
+- A calculadora irá abrir na tela, possibilitando a utilização </br>
 ![image](https://github.com/user-attachments/assets/a230c445-6c06-445b-be28-616e21b0cd6b)
