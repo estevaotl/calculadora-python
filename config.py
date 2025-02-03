@@ -1,0 +1,6 @@
+
+COR_PRETA = "#1e1f1e"
+COR_BRANCA = "#feffff"
+COR_AZUL = "#38576b"
+COR_CINZA = "#ECEFF1"
+COR_LARANJA = "#FFAB40"
